@@ -19,3 +19,4 @@ create_link() {
 
 create_link ".vim"
 create_link ".vimrc"
+create_link ".gitconfig"
